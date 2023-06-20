@@ -29,8 +29,8 @@ namespace ShowsLibrary.UnitTests
             string expectedInfo = "Not periodic ";
             expectedInfo += "Late Night ";
             expectedInfo += "talk-show. ";
-            expectedInfo += "Ведущий Jimmy Fallon. ";
-            expectedInfo += "Дата выхода: 23.05.2003 15:30.";
+            expectedInfo += "Р’РµРґСѓС‰РёР№ Jimmy Fallon. ";
+            expectedInfo += "Р”Р°С‚Р° РІС‹С…РѕРґР°: 23.05.2003 15:30.";
 
             Assert.That(show.GetInfo(), Is.EqualTo(expectedInfo));
         }
@@ -50,8 +50,8 @@ namespace ShowsLibrary.UnitTests
             string expectedInfo2 = "Daily ";
             expectedInfo2 += "Ministry ";
             expectedInfo2 += "discussion. ";
-            expectedInfo2 += "Ведущий Kate Jhonson. ";
-            expectedInfo2 += "Дата выхода: 13.06.2023.";
+            expectedInfo2 += "Р’РµРґСѓС‰РёР№ Kate Jhonson. ";
+            expectedInfo2 += "Р”Р°С‚Р° РІС‹С…РѕРґР°: 13.06.2023.";
 
             Assert.That(show2.GetInfo(), Is.EqualTo(expectedInfo2));
         }
