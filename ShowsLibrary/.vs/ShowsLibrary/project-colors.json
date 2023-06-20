@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "132ec656-4e7d-45ea-a86a-8960cbcfc5bb": {
+      "ProjectGuid": "132ec656-4e7d-45ea-a86a-8960cbcfc5bb",
+      "DisplayName": "ShowsLibrary",
+      "ColorIndex": 0
+    },
+    "220fec34-9ea8-4149-804f-d0b589f9cb87": {
+      "ProjectGuid": "220fec34-9ea8-4149-804f-d0b589f9cb87",
+      "DisplayName": "Telecast.UnitTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
