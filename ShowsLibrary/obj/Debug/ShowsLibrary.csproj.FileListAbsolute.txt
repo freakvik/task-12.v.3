@@ -1,9 +1,0 @@
-C:\Users\mpn19\Desktop\программирование\ShowsLibrary\bin\Debug\ShowsLibrary.dll
-C:\Users\mpn19\Desktop\программирование\ShowsLibrary\bin\Debug\ShowsLibrary.pdb
-C:\Users\mpn19\Desktop\программирование\ShowsLibrary\bin\Debug\nunit.framework.dll
-C:\Users\mpn19\Desktop\программирование\ShowsLibrary\bin\Debug\nunit.framework.xml
-C:\Users\mpn19\Desktop\программирование\ShowsLibrary\obj\Debug\ShowsLibrary.csproj.CoreCompileInputs.cache
-C:\Users\mpn19\Desktop\программирование\ShowsLibrary\obj\Debug\ShowsLibrary.csproj.CopyComplete
-C:\Users\mpn19\Desktop\программирование\ShowsLibrary\obj\Debug\ShowsLibrary.dll
-C:\Users\mpn19\Desktop\программирование\ShowsLibrary\obj\Debug\ShowsLibrary.pdb
-C:\Users\mpn19\Desktop\программирование\ShowsLibrary\obj\Debug\ShowsLibrary.csproj.AssemblyReference.cache
